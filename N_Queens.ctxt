@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=N_Queens
+comment1.params=nValue
+comment1.target=void\ setN(int)
+comment2.params=arr\ k
+comment2.target=void\ solve(int[][],\ int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ startApplication()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
